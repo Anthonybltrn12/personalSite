@@ -1,0 +1,13 @@
+h1{text-align: center;
+   text-decoration: underline;
+}
+h2{text-align: center;}
+header{
+    text-align: end;
+}
+body{
+    background-color: darkgrey;
+}
+#emoji{
+    padding-left: 40%;
+}

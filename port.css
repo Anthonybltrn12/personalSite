@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+header{text-align: end;}
+.headline{
+    text-decoration: underline;
+    color: navy;
+}
+.PortBlocks{
+    display: block;
+    background-color: black;
+    color: antiquewhite;
+}

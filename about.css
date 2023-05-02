@@ -1,0 +1,49 @@
+
+body{
+    background-color: dimgray;
+}
+
+/* #links{
+    text-align: end;
+} */
+header{
+    text-align: end;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    background-color: azure;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: chartreuse;
+}
+section{
+    
+    display:flex;
+}
+.HomepageBox{
+    display:flex;
+    flex-direction: column;
+     width: 30%;
+     /* height:399px */
+     /* border: 5px solid blue;  */
+    padding: 1rem;
+}
+#gym{
+    height: 200px;
+    width:300px;
+}
+#pit{
+    height: 200px;
+    width: 300px;
+}
+#bar{
+    height: 200px;
+    width: 300px;
+    
+}
+#bartending{
+    padding-top: 5rem;
+}
