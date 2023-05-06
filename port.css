@@ -1,13 +1,52 @@
 h1{
     text-align: center;
 }
-header{text-align: end;}
+h2{
+    text-decoration: underline;
+}
+body{
+    background-color: black;
+}
+#links{
+    display: flex;
+    justify-content: space-around;
+    border: 3px dotted #ff312e;;
+    text-decoration: solid;
+    background-color: #333138;
+    color:#ff312e;;
+    font-style: italic;
+}
 .headline{
     text-decoration: underline;
-    color: navy;
+    color: white;
 }
-.PortBlocks{
-    display: block;
-    background-color: black;
-    color: antiquewhite;
+.projBlocks{
+    display: flex;
+    flex-direction: column;
+    background-color: #ff312e;
+    justify-content: space-around;
+    color: white;
+}
+#firstProj{
+    display: flex;
+    flex-direction: column;
+    background-color: #333138;
+    align-items: flex-start;
+    margin: 5px;
+}
+
+#secondProj{
+    display: flex;
+    flex-direction: column;
+    background-color: #333138;
+    align-items: center;
+    margin: 5px;
+}
+
+#thirdProj{
+    display: flex;
+    flex-direction: column;
+    background-color: #333138;
+    align-items: flex-end;
+    margin: 5px;
 }
