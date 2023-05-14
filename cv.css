@@ -1,0 +1,135 @@
+header{
+    display: flex;
+    border: 2px solid black;
+    justify-content: space-evenly;
+}
+ #titleBox{
+    display:flex;
+    border: 2px solid black;
+    justify-content: space-around;
+    margin-top: 2%;
+    background-color: black;
+    
+    
+} 
+
+.nameBox{
+    display: flex;
+    border: 2px solid black;
+    width:fit-content;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+    background-color: black;
+    color: white;
+
+}
+.contactBox{
+    display: flex;
+    border: 2px solid black;
+    width:fit-content;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+    background-color: black;
+    color: white;
+}
+
+#midBox{
+    display:flex;
+    border: 2px solid black;
+    justify-content: space-around;
+    margin-top: 2%;
+    
+    
+} 
+.descripBox{
+    display: flex;
+    border: 2px solid black;
+    width:fit-content;
+    align-items: flex-end;
+    align-items: center;
+    font-style: italic;
+}
+.picBox{
+    display: flex;
+    border: 2px solid black;
+    width:fit-content;
+}
+#bottomBox{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+#skills{
+    display: flex;
+    border: 2px solid black;
+    width:fit-content;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    margin-top: 2%;
+    justify-content: flex-start;
+    height: fit-content;
+}
+.socials{
+    display: flex;
+    border: 2px solid white;
+    flex-direction: column;
+}
+.language{
+    display: flex;
+    border: 2px solid white;
+    flex-direction: column;
+    margin-top: 1%;
+}
+#work{
+    display: flex;
+    flex-direction: column; 
+    width: 60%;
+    
+    width: fit-content;
+    margin-left: 10%;
+    margin-bottom: 30%;
+    margin-top: 2%;
+    justify-content: flex-end;
+    font-style: italic;
+}
+.first{
+    display: flex;
+    border: 2px solid black;
+    width: 90%;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.second{
+    display: flex;
+    border: 2px solid black;
+    width: 90%;
+    margin-left: 4%;
+
+}
+.third{
+    display: flex;
+    border: 2px solid black;
+    width: 90%;
+    margin-left: 4%;
+}
+#school{
+    display: flex;
+    flex-direction: row; 
+    
+    
+     border: 2px solid black; 
+     margin-bottom: 2%;
+     margin-top: 2%;
+     margin-left: 10%;
+    width: fit-content;
+    width: 80%;
+    
+}
+
+
+

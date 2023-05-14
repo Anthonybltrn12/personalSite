@@ -10,9 +10,9 @@ body{
 #links{
     display: flex;
     justify-content: space-around;
-    border: 3px dotted #ff312e;;
+    border: 3px solid black;;
     text-decoration: solid;
-    background-color: #333138;
+    background-color: #3f3f3f;
     color:#ff312e;;
     font-style: italic;
 }

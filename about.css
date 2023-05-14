@@ -82,3 +82,8 @@ section{
 #bartending{
     padding-top: 5rem;
 }
+ #links{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+ }
